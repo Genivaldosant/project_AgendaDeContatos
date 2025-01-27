@@ -102,3 +102,6 @@ table tbody td img{
 .errorInput {
     border: 1px solid red;
 }
+table tbody td {
+    border-bottom: 2px solid rgba(0, 0, 0, 1);
+}
